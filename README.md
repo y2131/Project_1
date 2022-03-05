@@ -1,4 +1,4 @@
-<h1 align="center">Australian Weather Change Over 8 Years</h1> 
+<h1 align="center">Weather Change in Australian Over 8 Years</h1> 
 
 <p align="center">Project Description</p>
 This project is on weather change in Australia from the year 2009 to the year 2016. 
