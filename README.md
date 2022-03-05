@@ -12,4 +12,9 @@ The data information:
 ![Pig1](https://user-images.githubusercontent.com/100771366/156882411-849b6a3f-d2e0-419c-b9ac-1fb60f2a8490.png)
 
 
+After cleaning the dataset:
+
+![Pig2](https://user-images.githubusercontent.com/100771366/156882669-f4c7adc9-26b1-420e-9bc6-ec3cab01842f.png)
+
+
 
