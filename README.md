@@ -9,5 +9,7 @@ I have downloaded the dataset from Kaggle.
 The data information:
 
 
+![Pig1](https://user-images.githubusercontent.com/100771366/156882411-849b6a3f-d2e0-419c-b9ac-1fb60f2a8490.png)
+
 
 
