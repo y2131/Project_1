@@ -25,11 +25,15 @@ Australia have four seasons, with a very pleasant weather. But in year 2013 & 20
 
 This gives us a hint that one or more factors affecting weather in Australia. Parts of Australia vary in climates due to its large  geographical size. The reason for the increase in temperature can be established further with a bigger dataset and area wise analysis. 
 
+
+![Pig3](https://user-images.githubusercontent.com/100771366/156883394-dd0e1537-2bed-42fd-a560-fd4cc4c12763.png)
+
 Northern part of Australia have very high wind compared to other parts of Australia. To look in to the reason we need details of the land scape. 
 
 
 
-There are more count of rainfall observed when humidity ranges from 60 - 100 , pressure level between 1000 –1030 and temperature between 15 to 30 degree Celsius
+To summarize the correlation between the weather elements I have used Pearson correlation
+
 
 
 
