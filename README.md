@@ -16,5 +16,11 @@ After cleaning the dataset:
 
 ![Pig2](https://user-images.githubusercontent.com/100771366/156882669-f4c7adc9-26b1-420e-9bc6-ec3cab01842f.png)
 
+The weather elements – Temperature, Humidity & Rain have direct or indirect impact each other.
+
+Australia have four seasons, with a very pleasant weather. But in year 2013 & 2014 the temperature increased making the hottest years among 8 years.
+
+This gives us a hint that one or more factors affecting weather in Australia. Parts of Australia vary in climates due to its large  geographical size. The reason for the increase in temperature can be established further with a bigger dataset and area wise analysis. 
+
 
 
