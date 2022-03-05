@@ -16,6 +16,9 @@ After cleaning the dataset:
 
 ![Pig2](https://user-images.githubusercontent.com/100771366/156882669-f4c7adc9-26b1-420e-9bc6-ec3cab01842f.png)
 
+
+![newplot (4)](https://user-images.githubusercontent.com/100771366/156883076-8fc8d0ec-a08e-4812-bb5d-696980e7ed07.png)
+
 The weather elements – Temperature, Humidity & Rain have direct or indirect impact each other.
 
 Australia have four seasons, with a very pleasant weather. But in year 2013 & 2014 the temperature increased making the hottest years among 8 years.
