@@ -6,6 +6,8 @@ This project explains the inter-dependency of weather elements & impact on each 
 Focus is to see the effect caused by Global warming on the weather elements. 
 
 I have downloaded the dataset from Kaggle.
+
+
 The data information:
 
 
@@ -31,8 +33,13 @@ This gives us a hint that one or more factors affecting weather in Australia. Pa
 Northern part of Australia have very high wind compared to other parts of Australia. To look in to the reason we need details of the land scape. 
 
 
+![Pig4](https://user-images.githubusercontent.com/100771366/156883637-cf6c0430-cd9f-4bbe-8337-1a801a82560c.png)
 
 To summarize the correlation between the weather elements I have used Pearson correlation
+
+
+
+Give a ⭐️ if you like this project!
 
 
 
